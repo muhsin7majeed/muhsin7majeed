@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhsin</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h1 align="center">Hey, I'm Muhsin</h1>
+<h3 align="center">Frontend developer from Kerala, India</h3>
 
-- 👨‍💻 More info [https://muhsi.in](https://muhsi.in)
+- More info [https://muhsi.in](https://muhsi.in)
 
-- 💬 Ask me about **react, typescript, javascript**
+- Ask me about **react, typescript, javascript**
 
-- 📫 How to reach me **me@muhsi.in**
+- How to reach me **me@muhsi.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhsin7majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhsin7majeed" height="30" width="40" /></a>
-<a href="https://instagram.com/muhsin7majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsin7majeed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhsin7majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/muhsin7majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://mastodon.social/@unbaked_potato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastadon.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
